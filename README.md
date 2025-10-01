@@ -1,7 +1,3 @@
-Claro\! Aqui está um `README.md` detalhado, formatado em Markdown, para acompanhar os scripts. Este arquivo serve como um manual completo, explicando passo a passo como configurar e utilizar as rotinas de backup e restauração.
-
------
-
 # Automação de Backup e Restore de PDBs Oracle 19c
 
 Este projeto fornece um conjunto de scripts para automatizar o backup de múltiplos Pluggable Databases (PDBs) em um ambiente Oracle Database 19c Enterprise. A solução realiza backups compactados, os transfere para um storage NFS e oferece um método simplificado para a restauração individual de PDBs.
