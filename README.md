@@ -8,20 +8,20 @@ Este projeto fornece um conjunto de scripts para automatizar o backup de múltip
 
 ## Índice
 
-1.  [Visão Geral e Funcionalidades](https://www.google.com/search?q=%231-vis%C3%A3o-geral-e-funcionalidades)
-2.  [Pré-requisitos](https://www.google.com/search?q=%232-pr%C3%A9-requisitos)
-3.  [Estrutura de Arquivos](https://www.google.com/search?q=%233-estrutura-de-arquivos)
-4.  [Configuração e Uso do Script de Backup (`backup_all_pdbs.sh`)](https://www.google.com/search?q=%234-configura%C3%A7%C3%A3o-e-uso-do-script-de-backup-backup_all_pdbssh)
-      * [Passo 1: Edição das Variáveis de Configuração](https://www.google.com/search?q=%23passo-1-edi%C3%A7%C3%A3o-das-vari%C3%A1veis-de-configura%C3%A7%C3%A3o)
-      * [Passo 2: Conceder Permissão de Execução](https://www.google.com/search?q=%23passo-2-conceder-permiss%C3%A3o-de-execu%C3%A7%C3%A3o)
-      * [Passo 3: Agendamento com Cron](https://www.google.com/search?q=%23passo-3-agendamento-com-cron)
-      * [Passo 4: Verificação dos Logs](https://www.google.com/search?q=%23passo-4-verifica%C3%A7%C3%A3o-dos-logs)
-5.  [Configuração e Uso do Script de Restauração (`restore_pdb.sh`)](https://www.google.com/search?q=%235-configura%C3%A7%C3%A3o-e-uso-do-script-de-restaura%C3%A7%C3%A3o-restore_pdbsh)
-      * [Passo 1: Identificar o PDB e o Backup](https://www.google.com/search?q=%23passo-1-identificar-o-pdb-e-o-backup)
-      * [Passo 2: Ajustar Variáveis e Permissão](https://www.google.com/search?q=%23passo-2-ajustar-vari%C3%A1veis-e-permiss%C3%A3o)
-      * [Passo 3: Executar a Restauração](https://www.google.com/search?q=%23passo-3-executar-a-restaura%C3%A7%C3%A3o)
-      * [Passo 4: Monitorar o Log de Restauração](https://www.google.com/search?q=%23passo-4-monitorar-o-log-de-restaura%C3%A7%C3%A3o)
-6.  [Melhores Práticas e Considerações](https://www.google.com/search?q=%236-melhores-pr%C3%A1ticas-e-considera%C3%A7%C3%B5es)
+1.  [Visão Geral e Funcionalidades]
+2.  [Pré-requisitos]
+3.  [Estrutura de Arquivos]
+4.  [Configuração e Uso do Script de Backup (`backup_all_pdbs.sh`)
+      * [Passo 1: Edição das Variáveis de Configuração]
+      * [Passo 2: Conceder Permissão de Execução]
+      * [Passo 3: Agendamento com Cron]
+      * [Passo 4: Verificação dos Logs]
+5.  [Configuração e Uso do Script de Restauração (`restore_pdb.sh`)]
+      * [Passo 1: Identificar o PDB e o Backup]
+      * [Passo 2: Ajustar Variáveis e Permissão]
+      * [Passo 3: Executar a Restauração]
+      * [Passo 4: Monitorar o Log de Restauração]
+6.  [Melhores Práticas e Considerações]
 
 ## 1\. Visão Geral e Funcionalidades
 
